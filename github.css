@@ -12,3 +12,8 @@ form {
     color: antiquewhite;
     background-color: blue;
 }
+
+ul li {
+    color: white;
+    background-color: brown;
+}
